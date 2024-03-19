@@ -18,6 +18,27 @@ namespace GestionnaireDeMotsDePasse
     {
         static void Main(string[] args)
         {
+            Password password = new Password(pass);
+            if (password.)
+            { 
+            
+            
+            }
+            Console.WriteLine("Saisir un Master Password");
+            string pass = Console.ReadLine();
+            Password password = new Password(pass);
+            
+            Show();
+
+
+        }
+
+
+        /// <summary>
+        /// Permet d'affichage introduction et choisir les menus
+        /// </summary>
+        private static void Show()
+        {
             Console.WriteLine("************************************************************");
             Console.WriteLine("Sélectionnez une action");
             Console.WriteLine("1. Consulter un  mot de passe ");
@@ -28,6 +49,14 @@ namespace GestionnaireDeMotsDePasse
             Console.WriteLine("************************************************************\n");
             Console.Write("Faites votre choix : ");
             Console.ReadLine();
+        }
+
+        private static void CheckPassword(string password)
+        {
+            
+        
+        
+        
         }
     }
 }
