@@ -1,0 +1,8 @@
+D:\Leçons\Module4\Mardi Après Midi Pra Prof 114 P_Secu Schaffer C\GestionnaireDeMotsDePasse\GestionnaireDeMotsDePasse\bin\Debug\GestionnaireDeMotsDePasse.exe.config
+D:\Leçons\Module4\Mardi Après Midi Pra Prof 114 P_Secu Schaffer C\GestionnaireDeMotsDePasse\GestionnaireDeMotsDePasse\bin\Debug\GestionnaireDeMotsDePasse.exe
+D:\Leçons\Module4\Mardi Après Midi Pra Prof 114 P_Secu Schaffer C\GestionnaireDeMotsDePasse\GestionnaireDeMotsDePasse\bin\Debug\GestionnaireDeMotsDePasse.pdb
+D:\Leçons\Module4\Mardi Après Midi Pra Prof 114 P_Secu Schaffer C\GestionnaireDeMotsDePasse\GestionnaireDeMotsDePasse\obj\Debug\GestionnaireDeMotsDePasse.csproj.AssemblyReference.cache
+D:\Leçons\Module4\Mardi Après Midi Pra Prof 114 P_Secu Schaffer C\GestionnaireDeMotsDePasse\GestionnaireDeMotsDePasse\obj\Debug\GestionnaireDeMotsDePasse.csproj.SuggestedBindingRedirects.cache
+D:\Leçons\Module4\Mardi Après Midi Pra Prof 114 P_Secu Schaffer C\GestionnaireDeMotsDePasse\GestionnaireDeMotsDePasse\obj\Debug\GestionnaireDeMotsDePasse.csproj.CoreCompileInputs.cache
+D:\Leçons\Module4\Mardi Après Midi Pra Prof 114 P_Secu Schaffer C\GestionnaireDeMotsDePasse\GestionnaireDeMotsDePasse\obj\Debug\GestionnaireDeMotsDePasse.exe
+D:\Leçons\Module4\Mardi Après Midi Pra Prof 114 P_Secu Schaffer C\GestionnaireDeMotsDePasse\GestionnaireDeMotsDePasse\obj\Debug\GestionnaireDeMotsDePasse.pdb
